@@ -1,2 +1,2 @@
-# manuals
-Manuals for anything really. Every file is in markdown format
+# WEB DIRECTORY
+> Hint: Use `Ctrl` + `F` to find any spesific topic.
